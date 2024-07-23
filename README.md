@@ -1,6 +1,6 @@
 # Lightless Bridge
 
-This is a project to create a trust minimized bridge between EVM chains and the Lightning Network. The goal is to allow for the creation of smart contracts that can make trust minimized payments to the Lightning Network. This really only makes sense in the context of chains using Bitcoin as their native currency, but it could be extended to other chains as well.
+This is a project to create a trust minimized bridge between EVM chains and the Dchain. The goal is to allow for the creation of smart contracts that can make trust minimized payments to the Dchain. This really only makes sense in the context of chains using Bitcoin as their native currency, but it could be extended to other chains as well.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript, and LND.
 
